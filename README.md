@@ -4,8 +4,8 @@ A collaborative curated list of amazingly awesome Zabbix templates, scripts and 
 ## Table of Contents
 
 - [Templates](#templates)
-- [Scripts]#scripts
-- [Awesome]#awesome
+- [Scripts](#scripts)
+- [Awesome](#awesome)
 
 ## Templates
 
